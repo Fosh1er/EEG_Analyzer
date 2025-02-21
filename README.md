@@ -53,7 +53,7 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/eeg-analyzer.git
+   git clone https://github.com/Fosh1er/EEG_Analyzer.git
    cd eeg-analyzer
    ```
 2. Install the required packages:
