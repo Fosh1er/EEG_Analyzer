@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-green)
 ![PyABF](https://img.shields.io/badge/PyABF-2.3%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 **EEG Analyzer** is a desktop application designed for analyzing EEG (Electroencephalography) data. It provides tools for visualizing, processing, and classifying behavioral events in multi-channel EEG signals. The application is built with Python and uses PyQt5 for the user interface, PyABF for loading ABF files, and SciPy for signal processing.
 
