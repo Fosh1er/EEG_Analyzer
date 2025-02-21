@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+pyabf==2.3.0
+numpy==1.23.5
+scipy==1.10.0
+pyqtgraph==0.13.3
+h5py==3.8.0
